@@ -1,0 +1,32 @@
+img
+{
+    width: 10%;
+}
+h1
+{
+    text-align: center;
+    color: greenyellow;
+    font-style: oblique;
+    background-color: blue;
+    text-decoration: underline;
+}
+h2
+{
+    text-align: center;
+    color: red;
+    background-color: aqua;
+    text-decoration: underline;
+}
+h4
+{
+    color: green;
+    text-decoration: underline;
+    text-align: left;
+    background-color: aqua;
+}
+h3
+{
+    color: red;
+    text-decoration: underline;
+    background-color: yellow;
+}
